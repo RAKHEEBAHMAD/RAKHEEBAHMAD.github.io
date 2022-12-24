@@ -19,7 +19,7 @@
 	<label for="fname">
 		Number to be Searched:
 	</label>
-	<input type="text" id="fname" name="fname" />
+	<input type="number" id="fname" name="fname" required/>
 	<br /><br />
 	<button id="btn"
 			onclick="LinearSearch()">LinearSearch
@@ -39,6 +39,11 @@
 	<button id="btn"
 			onclick="BubbleSort()">Bubblesort
 	</button>
+	<br/>
+	<br/>
+	<button  class="btn1" 
+           onclick="location.reload()" id="Button1" >
+     Generate New Array</button>  
 	<br />
 	<div id="text"></div>
 	</div>
