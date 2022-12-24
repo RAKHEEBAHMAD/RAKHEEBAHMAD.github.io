@@ -33,4 +33,27 @@
     width: 100%;
     text-align: center;
     }
-    
+#btn{
+    padding: 12px;
+font-weight: bolder; 
+background-color: #6f459e; 
+border-radius: 10px; 
+color: white; 
+font-size: 16px; 
+border: white; 
+margin-top: 1vw;
+margin-right: 1vw;
+}
+
+.btn1
+{
+padding: 12px;
+font-weight: bolder; 
+background-color: #6f459e; 
+border-radius: 10px; 
+color: white; 
+font-size: 16px; 
+border: white; 
+margin-top: 1vw;
+margin-right: 1vw;
+}
